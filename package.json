@@ -1,0 +1,9 @@
+{
+  "name": "@rentpath/commitlint-config",
+  "version": "1.0.0",
+  "description": "Commitlint rules for RentPath, LLC.",
+  "main": "index.js",
+  "repository": "https://github.com/rentpath/commitlint-config.git",
+  "author": "Colin Rymer <colin.rymer@gmail.com>, Luke Fender <lfender6445@gmail.com>",
+  "license": "MIT"
+}
