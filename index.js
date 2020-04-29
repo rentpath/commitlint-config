@@ -1,7 +1,7 @@
 module.exports = {
   rules: {
     "body-leading-blank": [2, "always"],
-    "body-max-line-length": [2, "always", 72]
+    "body-max-line-length": [2, "always", 72],
     "footer-leading-blank": [2, "always"],
     "header-max-length": [2, "always", 50],
     "scope-case": [2, "always", "lower-case"],
