@@ -3,7 +3,7 @@ module.exports = {
     "body-leading-blank": [2, "always"],
     "body-max-line-length": [2, "always", 72],
     "footer-leading-blank": [2, "always"],
-    "header-max-length": [2, "always", 50],
+    "header-max-length": [2, "always", 72],
     "scope-case": [2,
       "always",
       ["lower-case", "camel-case", "pascal-case"]
